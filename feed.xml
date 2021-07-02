@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Webworm; news as truthful as WHMCS</title>
+    <link href="https://webworm.crabdance.com/feed.xml" rel="self" />
+    <link href="https://webworm.crabdance.com" />
+    <updated>2021-07-02T13:38:06-05:00</updated>
+    <author>
+        <name>GitPear.com</name>
+    </author>
+    <id>https://webworm.crabdance.com</id>
+
+    <entry>
+        <title>EIG Announces Acquisition of NameHero</title>
+        <author>
+            <name>GitPear.com</name>
+        </author>
+        <link href="https://webworm.crabdance.com/eig-announces-acquisition-of-namehero.html"/>
+        <id>https://webworm.crabdance.com/eig-announces-acquisition-of-namehero.html</id>
+
+        <updated>2021-07-02T13:38:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                     EIG official statement: On July 2nd, 4:20AM and 69 Seconds, "EIG" and "Name Hero, LLC." entered into a definitive agreement under which EIG will acquire NameHero. As with all important business decisions, we promise to work closely with our clients, partners, and employees to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    EIG official statement:
+  </p>
+
+  <p>
+    On July 2nd, 4:20AM and 69 Seconds, "EIG" and "Name Hero, LLC." entered into a definitive agreement under which EIG will acquire NameHero.<br>As with all important business decisions, we promise to work closely with our clients, partners,
+<br>and employees to make the integration process as seamless as possible. EIG will&nbsp;begin transferring all the infrastructure from NameHero over to HostGator.<br>We do not&nbsp;expect this to interrupt existing client services, however, your website will probably go down for a few days or something. Not our fault tho.
+  </p>
+
+  <p>
+    All existing services will have their prices kept at where they are for 48 hours, however, after this 48 hour period, all prices will increase by approximately 598%. You may be required to pay a $1,000 transfer fee, to account for the time of us transferring all of your data to HostGator.
+  </p>
+
+  <p>
+    Thank you for understanding, we look forward to continue to work with NameHero.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

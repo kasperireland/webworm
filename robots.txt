@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://webworm.crabdance.com/sitemap.xml
