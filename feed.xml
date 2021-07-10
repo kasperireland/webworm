@@ -3,12 +3,35 @@
     <title>Webworm; news as truthful as WHMCS</title>
     <link href="https://webworm.crabdance.com/feed.xml" rel="self" />
     <link href="https://webworm.crabdance.com" />
-    <updated>2021-07-04T15:06:43-05:00</updated>
+    <updated>2021-07-10T17:18:12-05:00</updated>
     <author>
         <name>GitPear.com</name>
     </author>
     <id>https://webworm.crabdance.com</id>
 
+    <entry>
+        <title>WebPros completes acquisition of Blesta</title>
+        <author>
+            <name>GitPear.com</name>
+        </author>
+        <link href="https://webworm.crabdance.com/webpros-completes-acquisition-of-blesta.html"/>
+        <id>https://webworm.crabdance.com/webpros-completes-acquisition-of-blesta.html</id>
+
+        <updated>2021-07-10T17:18:12-05:00</updated>
+            <summary>
+                <![CDATA[
+                    WebPros entered a definitive agreement with Blesta in which WebPros would acquire Blesta for the price of $10 Billion. Paul from Blesta promised that every user in the Blesta Discord Community would receive $1 Million from him. Since the acquisition of Blesta was completed, by&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>WebPros entered a definitive agreement with Blesta in which WebPros would acquire Blesta for the price of $10 Billion. Paul from Blesta promised that every user in the Blesta Discord Community would receive $1 Million from him.</p>
+<p>Since the acquisition of Blesta was completed, by WebPros, Blesta Owned Licenses were discontinued and Monthly Licenses were bumped up in price by 250%, each having active client limits of at least 250.</p>
+<p>Blesta is now offering a migration tool, to migrate from Blesta to WHMCS, as Blesta will be getting merged with WHMCS in November. For every 10 seconds spent using this migration tool, a $5 invoice will be created. That is, if you spend 250 seconds using the migration tool, you would owe $1,250 to WebPros. WebPros was recently asked why there was a fee for such a thing, here is what they had to say:</p>
+<p>We at WebPros only make quality software. This is why, for users which are using our beautiful migration tool, an invoice will be created, as you are using our precious well-developed high quality industry-leading feature-rich modern cross-compatible software for your own use. Failure to pay this invoice within 2 minutes will result in a 50% increase of the invoice price, because you chose to ignore a very clear notification stating you had an overdue invoice.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WHMCS Discontinues Monthly Licenses</title>
         <author>
